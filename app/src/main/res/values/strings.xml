@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SzklarniaApp</string>
+    
+<string-array name="id">
+    <item> 1</item>
+    <item> 2</item>
+    <item> 3</item>
+</string-array>
+
+    <string-array name="temp">
+        <item> 34</item>
+        <item>23</item>
+        <item> 15</item>
+    </string-array>
+
+    <string-array name="wilg">
+        <item> 100</item>
+        <item> 27</item>
+        <item> 80</item>
+    </string-array>
+</resources>

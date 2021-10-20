@@ -1,0 +1,4 @@
+#Wed Jan 08 19:23:47 CET 2020
+base.0=D\:\\SzklarniaApp (RAFAL-KOMPUTER)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\379
+path.0=classes.dex
+renamed.0=classes.dex

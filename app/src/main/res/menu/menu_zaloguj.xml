@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ZalogujActivity">
+
+
+    <item
+        android:id="@+id/action_odswiez"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/refresh"
+
+        android:orderInCategory="100"
+        android:title="odswiez"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:id="@+id/action_wyjdz"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/wyjdz"
+
+        android:orderInCategory="100"
+        android:title="wyjdz"
+        app:showAsAction="always"></item>
+
+
+
+
+</menu>
